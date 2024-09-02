@@ -1,0 +1,28 @@
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.exe
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.deps.json
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.runtimeconfig.json
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.dll
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.pdb
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.AssemblyInfoInputs.cache
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.AssemblyInfo.cs
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.csproj.CoreCompileInputs.cache
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.dll
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\refint\SudokuSolverTest.dll
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.pdb
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.genruntimeconfig.cache
+C:\Users\d-ethan.cockrell\source\repos\SudokuSolverTest\obj\Debug\net8.0\ref\SudokuSolverTest.dll
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.exe
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.deps.json
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.runtimeconfig.json
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.dll
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\bin\Debug\net8.0\SudokuSolverTest.pdb
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.AssemblyInfoInputs.cache
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.AssemblyInfo.cs
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.csproj.CoreCompileInputs.cache
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.dll
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\refint\SudokuSolverTest.dll
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.pdb
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\SudokuSolverTest.genruntimeconfig.cache
+C:\Users\d-ethan.cockrell\OneDrive - afs.com\Documents\SudokuSolverTest\obj\Debug\net8.0\ref\SudokuSolverTest.dll

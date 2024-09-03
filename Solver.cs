@@ -193,20 +193,20 @@ namespace SudokuSolverTest
             int count = 0;
 
             // Check to make sure there are at least 17 given digits
-            //for (int i = 0; i < 9; i++) // row number
-            //{
-            //    for (int j = 0; j < 9; j++) // column number
-            //    {
-            //        if (intPuzzle[i, j] != 0)
-            //        {
-            //            count++;
-            //        }
-            //    }
-            //}
-            //if (count < 17)
-            //{
-            //    return false;
-            //}
+            for (int i = 0; i < 9; i++) // row number
+            {
+                for (int j = 0; j < 9; j++) // column number
+                {
+                    if (intPuzzle[i, j] != 0)
+                    {
+                        count++;
+                    }
+                }
+            }
+            if (count < 17)
+            {
+                return false;
+            }
 
             // Checks each row for duplicates
             for (int i = 0; i < 9; i++) // row number
